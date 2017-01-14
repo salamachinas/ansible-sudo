@@ -3,6 +3,7 @@ ansible-sudo
 
 This role installs sudo
 
+[![Ansible Galaxy](https://img.shields.io/ansible/role/14915.svg)](https://galaxy.ansible.com/salamachinas/sudo/)
 
 Requirements
 ------------
